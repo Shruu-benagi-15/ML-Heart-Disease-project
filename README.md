@@ -25,6 +25,9 @@ This project uses machine learning algorithms to predict the presence of heart d
    git clone https://github.com/YourUsername/ML-Heart-Disease-Prediction.git
 
    ## output
-   ![image alt](https://github.com/Shruu-benagi-15/ML-Heart-Disease-project/blob/17997515e0ba1accbf3d00f8d4a646acbfcf2fc0/Screenshot%20(30).png)
-   ![image alt](https://github.com/Shruu-benagi-15/ML-Heart-Disease-project/blob/17997515e0ba1accbf3d00f8d4a646acbfcf2fc0/Screenshot%20(31).png)
-   ![image alt](https://github.com/Shruu-benagi-15/ML-Heart-Disease-project/blob/17997515e0ba1accbf3d00f8d4a646acbfcf2fc0/Screenshot%20(32).png)
+   
+![image alt](https://github.com/Shruu-benagi-15/ML-Heart-Disease-project/blob/17997515e0ba1accbf3d00f8d4a646acbfcf2fc0/Screenshot%20(30).png)
+   
+![image alt](https://github.com/Shruu-benagi-15/ML-Heart-Disease-project/blob/17997515e0ba1accbf3d00f8d4a646acbfcf2fc0/Screenshot%20(31).png)
+   
+![image alt](https://github.com/Shruu-benagi-15/ML-Heart-Disease-project/blob/17997515e0ba1accbf3d00f8d4a646acbfcf2fc0/Screenshot%20(32).png)
